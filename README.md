@@ -4,7 +4,7 @@
 
 # 👁️ Eye Testing Apparatus Using AI
 
-*By \[Your Name(s)], \[Roll Number(s)]*
+*By \[pranav,nakul, harsh, devansh], \[2401730161,2401730184,2401730174,2401730127]*
 
 ---
 
